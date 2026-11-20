@@ -1,0 +1,5 @@
+1:"$Sreact.fragment"
+2:I[90774,["/learning-v18/_next/static/chunks/0whnu9t5k-ij7.js","/learning-v18/_next/static/chunks/01as9r5n5k.xo.js"],"OutletBoundary"]
+3:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","article",null,{"className":"w-full px-6 py-16 lg:px-[60px] lg:py-24","children":["$","div",null,{"className":"mx-auto max-w-[800px]","children":[["$","h1",null,{"className":"text-4xl font-extrabold tracking-tight text-foreground md:text-5xl","children":"ホーム"}],["$","p",null,{"className":"mt-4 text-lg text-muted-foreground","children":"<p>Learningは学生向けのマイクロラーニングプラットフォームです。一枚のフラッシュカードに一つの概念、即座のクイズフィードバック、進捗追跡が可能です。</p>"}],["$","div",null,{"className":"prose prose-lg mt-8 max-w-none text-foreground","dangerouslySetInnerHTML":{"__html":"<p>Learning нь оюутнуудад зориулсан microlearning платформ юм. Нэг ойлголт нэг flashcard, шууд quiz feedback, өөрийн дэвшлийг хянах боломжтой.</p>"}}]]}]}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"B4JrVSGCnZsb5xRxXpxYS"}
+4:null
